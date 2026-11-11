@@ -36,14 +36,14 @@ Currently, I'm strengthening my backend engineering skills and developing a modu
 | [YOLO Object Detection App](https://github.com/alisafdarraza737-sketch/Task-3.Object-Detection-App) | Streamlit application for object detection in uploaded images and camera captures using Ultralytics YOLO |
 | [CNN Image Classification](https://github.com/alisafdarraza737-sketch/Task-1.image-Classification-CNN) | Image classification experiments using convolutional neural networks |
 | [Chatbot Recognition](https://github.com/alisafdarraza737-sketch/Task-2.ChatbotRecognition) | NLP intent-recognition notebook and chatbot learning project |
-| [FastAPI + PostgreSQL](https://github.com/alisafdarraza737-sketch/FastAPi-postgre) | Backend learning project exploring FastAPI and relational database integration |
+| [FastAPI + PostgreSQL](https://github.com/alisafdarraza737-sketch/FastAPi-postgre) | JWT authentication, SQLAlchemy models, PostgreSQL support, and owner-scoped student CRUD API |
 | [Event Registration System](https://github.com/alisafdarraza737-sketch/Task-2-Event-Regitration-System) | Web development project |
 | [Simple URL Shortener](https://github.com/alisafdarraza737-sketch/Task-1-Simple-URL-Shortener) | Introductory web application |
 
 ## Current Focus
 
 - Building a multimodal AI assistant with chat, document Q&A, image understanding, voice, web search, memory, and automation.
-- Improving FastAPI projects with authentication, database models, CRUD endpoints, validation, and automated tests.
+- Extending the FastAPI student API with database migrations, integration tests, and deployment.
 - Creating reproducible project demos with clear setup instructions and architecture documentation.
 - Practicing data analysis and machine-learning workflows with Python.
 
