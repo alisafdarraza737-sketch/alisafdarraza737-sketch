@@ -1,117 +1,78 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ali%20Safdar%20Raza%20Shamsi&fontSize=40&fontAlignY=38&animation=fadeIn" alt="Ali Safdar Raza Shamsi" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:0e7490&height=190&section=header&text=Ali%20Safdar%20Raza&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Ali Safdar Raza" />
 
-<a href="https://github.com/alisafdarraza737-sketch">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Python+Developer;Data+Science+%26+Analytics;AI+Agents+%26+Automation;RAG+Chatbots+%26+Computer+Vision" alt="Typing animation" />
-</a>
+### Python Developer • AI Engineering • Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alisafdar--raza-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisafdar-raza-07984b390)
-[![Email](https://img.shields.io/badge/Email-alisafdarraza737%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alisafdarraza737@gmail.com)
+Building practical Python applications, AI-powered tools, and data-driven solutions.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github)](https://github.com/alisafdarraza737-sketch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alisafdar-raza-07984b390)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alisafdarraza737@gmail.com)
 
 </div>
 
-## 👋 About Me
+## About
 
-BS Information Technology student at Virtual University of Pakistan, based in Lahore, Pakistan. I turn data into insights and build AI-powered tools: data analysis, web scraping, RAG chatbots, computer vision, and automation workflows.
+I'm a BS Information Technology student based in Lahore, Pakistan, focused on **Python development, AI engineering, data analytics, and backend development**. I enjoy turning ideas into working projects—from data analysis notebooks and computer-vision experiments to APIs and AI assistant workflows.
 
----
+Currently, I'm strengthening my backend engineering skills and developing a modular, multimodal AI assistant. Project status is described in each repository so visitors can distinguish working implementations from experiments and planned features.
 
-## 🛠️ Tech Stack
+## Core Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,java,html,css,react,fastapi,numpy,pandas,git,github,vscode" alt="Tech stack icons" />
-</p>
-
-| Area | Tools |
+| Area | Technologies and concepts |
 |---|---|
-| Languages | Python, JavaScript, Java |
-| Data Science | NumPy, Pandas, Matplotlib, EDA, Data Cleaning, Web Scraping |
-| Web | HTML5, CSS3, JavaScript, React, FastAPI |
-| AI / ML | AI Agents, RAG, Chatbots, LLMs, NLP, Computer Vision, CNN, YOLO, Diffusion Models, Hugging Face |
-| Automation and Tools | n8n, Git, GitHub, Jupyter Notebook, VS Code |
+| Programming | Python, JavaScript, Java |
+| AI / Machine Learning | NLP, intent classification, CNNs, YOLO, LLM applications, RAG fundamentals |
+| Data Analytics | NumPy, Pandas, Matplotlib, data cleaning, EDA, visualization |
+| Backend | FastAPI, REST APIs, SQLAlchemy, PostgreSQL fundamentals |
+| Frontend | HTML, CSS, JavaScript, React |
+| Automation & Tools | n8n, web scraping, Git, GitHub, Jupyter, VS Code |
 
----
+## Selected Projects
 
-## 📊 GitHub Stats
+| Project | What it demonstrates |
+|---|---|
+| [YOLO Object Detection App](https://github.com/alisafdarraza737-sketch/Task-3.Object-Detection-App) | Streamlit application for object detection in uploaded images and camera captures using Ultralytics YOLO |
+| [CNN Image Classification](https://github.com/alisafdarraza737-sketch/Task-1.image-Classification-CNN) | Image classification experiments using convolutional neural networks |
+| [Chatbot Recognition](https://github.com/alisafdarraza737-sketch/Task-2.ChatbotRecognition) | NLP intent-recognition notebook and chatbot learning project |
+| [FastAPI + PostgreSQL](https://github.com/alisafdarraza737-sketch/FastAPi-postgre) | Backend learning project exploring FastAPI and relational database integration |
+| [Event Registration System](https://github.com/alisafdarraza737-sketch/Task-2-Event-Regitration-System) | Web development project |
+| [Simple URL Shortener](https://github.com/alisafdarraza737-sketch/Task-1-Simple-URL-Shortener) | Introductory web application |
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alisafdarraza737-sketch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisafdarraza737-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+## Current Focus
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alisafdarraza737-sketch&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+- Building a multimodal AI assistant with chat, document Q&A, image understanding, voice, web search, memory, and automation.
+- Improving FastAPI projects with authentication, database models, CRUD endpoints, validation, and automated tests.
+- Creating reproducible project demos with clear setup instructions and architecture documentation.
+- Practicing data analysis and machine-learning workflows with Python.
 
----
+## Experience & Training
 
-## 📂 Projects on GitHub
+- **Python and Data Science Intern — Code Alpha (Remote):** Titanic dataset EDA and Netflix data visualization.
+- **Data Analysis Intern — Optimus Automate (Remote):** Health dataset EDA and COVID-19 data analysis.
+- **PNY Trainings, Lahore:** Python development, web development, and data science training.
 
-| Project | Description | Stack |
-|---|---|---|
-| [Image Classification CNN](https://github.com/alisafdarraza737-sketch/Task-1.image-Classification-CNN) | Image classification with convolutional neural networks: dataset preparation, augmentation, model training, and evaluation. | Python, Jupyter Notebook |
-| [Chatbot Recognition](https://github.com/alisafdarraza737-sketch/Task-2.ChatbotRecognition) | NLP chatbot that recognizes user intents and generates responses. | Python, NLTK, scikit-learn, Jupyter Notebook |
-| [Object Detection App](https://github.com/alisafdarraza737-sketch/Task-3.Object-Detection-App) | Object-detection application using YOLO-style computer vision workflows, supporting image upload and webcam detection. | Python, Computer Vision |
-| [AI E-commerce Dataset](https://github.com/alisafdarraza737-sketch/AI-Ecommerence-Dataset-) | E-commerce dataset project. | Python, Jupyter Notebook |
-| [Simple URL Shortener](https://github.com/alisafdarraza737-sketch/Task-1-Simple-URL-Shortener) | Simple web app that shortens long URLs. | HTML |
-| [Event Registration System](https://github.com/alisafdarraza737-sketch/Task-2-Event-Regitration-System) | Web-based event registration system. | JavaScript |
+## Education
 
----
-
-## 🔄 Latest Activity (auto-updated)
-
-<!--REPOS:START-->
-| Repository | Description | Language | Last updated |
-|---|---|---|---|
-| Run the "Update README" workflow once to fill this table | - | - | - |
-<!--REPOS:END-->
-
----
-
-## 🚀 More Projects (repositories coming soon)
-
-- **RAG Multi-PDF Chatbot:** retrieval-augmented chatbot for asking questions across PDF documents, using document ingestion, chunking, embeddings, vector retrieval, and LLM-based responses.
-- **E-commerce Price Monitoring Dashboard:** tracks product prices, discounts, and changes over time, with visualizations for competitor and market monitoring.
-- **Smart City Data Analytics and Visualization:** analysis of traffic volume, air quality, energy consumption, and complaints data to find patterns and present insights.
-- **LinkedIn Job Scraper:** automated job-scraping system that collects job listings and relevant information using Python automation and web scraping.
-- **AI Hiring Agent:** intelligent hiring assistant concept for automating candidate screening and supporting recruitment workflows.
-- **AI Automation and n8n Workflows:** AI-powered workflows for repetitive business processes, including a sample store agent for product and inventory queries.
-- **LinkedIn Post Approval Agent:** automation workflow that prepares LinkedIn posts and routes them through an approval step before publishing.
-- **Email and LinkedIn Monitoring Agent:** automation concept that monitors email and LinkedIn updates and processes them through AI workflows.
-- **Recommendation Engine:** similarity-based recommendation system for movies or products.
-- **AI Text-to-Image Application:** Python text-to-image app using diffusion models and Hugging Face tools.
-- **AI Text-to-Video Application:** text-to-video generation workflow with model and dependency setup.
-- **Voice AI (Speech-to-Text and Text-to-Speech):** voice interaction for chatbots using speech recognition, text-to-speech, and voice-activity detection.
-
----
-
-## 💼 Experience
-
-- **Python and Data Science Intern**, Code Alpha (Remote): EDA on the Titanic dataset, Netflix data visualizations, web scraping, and analytical reports.
-- **Data Analysis Intern**, Optimus Automate (Remote): EDA on a health dataset and COVID-19 data analysis and visualization.
-
-## 🎓 Education and Training
-
-- BS Information Technology, Virtual University of Pakistan (currently enrolled)
+- BS Information Technology — currently enrolled
 - Intermediate in Computer Science (ICS), Science College of Wahdat Road, Lahore (2024)
-- Python Development, Web Development, and Data Science (in progress), PNY Trainings, Lahore
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alisafdarraza737-sketch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisafdarraza737-sketch&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=alisafdarraza737-sketch&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alisafdarraza737-sketch/alisafdarraza737-sketch/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/alisafdarraza737-sketch/alisafdarraza737-sketch/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 <div align="center">
 
-📫 Open to onsite and remote opportunities in Lahore, Pakistan and internationally.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="footer wave" />
+**Open to internships and junior opportunities** in Python development, AI engineering, data analytics, and backend development.
 
 </div>
