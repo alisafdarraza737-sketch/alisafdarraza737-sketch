@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ali%20Safdar%20Raza%20Shamsi&fontSize=40&fontAlignY=38&animation=fadeIn" alt="Ali Safdar Raza Shamsi" />
 
+<a href="https://golden-collection-121212.framer.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-7C3AED?style=for-the-badge&logo=framer&logoColor=white" alt="Visit My Portfolio" />
+</a>
+
 <a href="https://github.com/alisafdarraza737-sketch">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Python+Developer;Data+Science+%26+Analytics;AI+Agents+%26+Automation;RAG+Chatbots+%26+Computer+Vision" alt="Typing animation" />
 </a>
